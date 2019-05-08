@@ -115,7 +115,7 @@ Script requires following packages to be installed on your server:
 
 ## Compatibility
 
-The script is tested only under [Debian](https://www.debian.org/) and Debian-based operating systems, like [Ubuntu](https://www.ubuntu.com/) etc. It should also work in almost every linux, but that's not guaranteed, so please be patient enough to test it first, and only then run with actual project if you are using some other linux OS.
+The script requires Laravel version >= 5.8. It is tested only under [Debian](https://www.debian.org/) and Debian-based operating systems, like [Ubuntu](https://www.ubuntu.com/) etc. It should also work in almost every linux, but that's not guaranteed, so please be patient enough to test it first, and only then run with actual project if you are using some other linux OS.
 
 ## Future Plans
 
