@@ -50,10 +50,10 @@ So, idealally we'll have this directory tree in our server at the end:
 	└── public_html/
 		└── css/
 		└── js/
-		└── .htaccess/
-		└── favicon.ico/
-		└── index.php/
-		└── robots.txt/
+		└── .htaccess
+		└── favicon.ico
+		└── index.php
+		└── robots.txt
 	└── laravel_base/
 		└── app/
 		└── bootstrap/
