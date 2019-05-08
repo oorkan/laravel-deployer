@@ -46,7 +46,7 @@ On local machine we can get laravel up and running on `localhost:8000` by doing 
 So, idealally we'll have this directory tree in our server at the end:
 
 ```text
-var/www/
+/var/www/
 	└── public_html/
 		└── css/
 		└── js/
