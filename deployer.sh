@@ -27,7 +27,7 @@ publicindex="index.php"
 #) ----------------------------------------------------------------------------------------------------
 
 #) Dependencies
-if ! [[ `type -p zip` || `type -p unzip` || `type -p rsync` ]]; then
+if [[ ! `type -p zip` || ! `type -p unzip` || ! `type -p rsync` ]]; then
     printf "ERROR: script requires packages 'zip','unzip' and 'rsync' to be installed on your system.\n $exitstr \n" >&2
     exit 1
 fi
